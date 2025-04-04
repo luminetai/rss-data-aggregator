@@ -1,0 +1,16 @@
+.git/
+__pycache__/
+venv/
+*.log
+*.md
+.env
+.env.example
+.gitignore
+docker-compose.yml
+Dockerfile
+LICENSE
+Makefile
+README.md
+.DS_Store
+.vscode/
+.apt_data
